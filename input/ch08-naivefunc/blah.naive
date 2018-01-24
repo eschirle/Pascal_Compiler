@@ -1,5 +1,0 @@
-main{
-    n := 5;
-    res := 1;
-    print(n + res);
-}

@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="runtime"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20180123142030"/>
+		date="20180123211643"/>
 	<dependencies>
 		<module organisation="com.lihaoyi" name="fastparse_2.11">
 			<revision name="0.4.1" status="release" pubdate="20160916015437" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/lihaoyi/scala-parser" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
